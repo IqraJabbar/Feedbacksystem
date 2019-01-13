@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "882590513579",
+    "firebase_url": "https://project-aa3fa.firebaseio.com",
+    "project_id": "project-aa3fa",
+    "storage_bucket": "project-aa3fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882590513579:android:4929c4fe831ab3bb",
+        "android_client_info": {
+          "package_name": "com.example.mehdi.feedbacksystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882590513579-6nci8mh24io01ndjqgiehq7qk1h8lp0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWhYYRSVSQvrQ29iz9mXVMND3BMrfwhkU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
